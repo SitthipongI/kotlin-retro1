@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/naviation_car"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Car" />
+    <item
+        android:id="@+id/navigation_Plan"
+        android:icon="@drawable/ic_local_airport_black_24dp"
+        android:title="Artist" />
+    <item
+        android:id="@+id/navigation_bus"
+        android:icon="@drawable/ic_music_video_black_24dp"
+        android:title="Bus" />
+    <item
+        android:id="@+id/navigation_truck"
+        android:icon="@drawable/ic_local_shipping_black_24dp"
+        android:title="Truck" />
+</menu>
